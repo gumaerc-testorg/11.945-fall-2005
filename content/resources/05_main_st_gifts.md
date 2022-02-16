@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: A gift store on Main Street. Image Courtesy of Bill Massaquoi.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-fall-2005/7fa72f7abb4a3a5fa196a52b388d511c_05_main_st_gifts.jpg
+file: /media/courses/11-945-springfield-studio-fall-2005/7fa72f7abb4a3a5fa196a52b388d511c_05_main_st_gifts.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A gift store on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Gifts.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 05_main_st_gifts.jpg
 uid: 7fa72f7a-bb4a-3a5f-a196-a52b388d511c

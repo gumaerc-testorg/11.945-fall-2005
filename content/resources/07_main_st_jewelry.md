@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: A small jewelry store on Main Street. Image Courtesy of Bill Massaquoi.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-fall-2005/d21e37dc67487d3a96f25385a00527c5_07_main_st_jewelry.jpg
+file: /media/courses/11-945-springfield-studio-fall-2005/d21e37dc67487d3a96f25385a00527c5_07_main_st_jewelry.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A small jewelry store on Main Street.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Jewelry store.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Businesses
+parent_type: CourseSection
 resourcetype: Image
 title: 07_main_st_jewelry.jpg
 uid: d21e37dc-6748-7d3a-96f2-5385a00527c5

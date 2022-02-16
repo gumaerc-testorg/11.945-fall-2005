@@ -16,8 +16,13 @@ description: 'This resource dicusses economic data, demographic analysis, econom
   the education and training system, information sources, and findings from Hyams
 
   foundation study.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-fall-2005/6f79788ac51cb2adcf91d191f4a0bcc3_lect8_pres.pdf
+file: /media/courses/11-945-springfield-studio-fall-2005/6f79788ac51cb2adcf91d191f4a0bcc3_lect8_pres.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect8_pres.pdf
 uid: 6f79788a-c51c-b2ad-cf91-d191f4a0bcc3

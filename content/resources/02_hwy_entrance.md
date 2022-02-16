@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: The entrance to I-91. Image Courtesy of Bill Massaquoi.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-fall-2005/a4bacd738fd8a4d60b3edbee843fad01_02_hwy_entrance.jpg
+file: /media/courses/11-945-springfield-studio-fall-2005/a4bacd738fd8a4d60b3edbee843fad01_02_hwy_entrance.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The entrance to I-91.
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Highway entrance.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Transportation
+parent_type: CourseSection
 resourcetype: Image
 title: 02_hwy_entrance.jpg
 uid: a4bacd73-8fd8-a4d6-0b3e-dbee843fad01
