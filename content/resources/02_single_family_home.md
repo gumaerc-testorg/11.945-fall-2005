@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 resourcetype: Image
 title: 02_single_family_home.jpg
 uid: 3abef865-f6ee-1a2d-ab1a-ff0f67ba915b

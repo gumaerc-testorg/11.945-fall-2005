@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Transportation
 parent_type: CourseSection
+parent_uid: 5b7c687c-83b7-b970-33eb-e49e1648067c
 resourcetype: Image
 title: 04_bridge_to_brightwood.jpg
 uid: 60c83078-9c3b-cdd4-83ec-f94545d7157a

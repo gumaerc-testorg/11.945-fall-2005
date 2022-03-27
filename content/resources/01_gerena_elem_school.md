@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Schools
 parent_type: CourseSection
+parent_uid: f430bf9b-6f62-31a0-88fc-c2a1a517d776
 resourcetype: Image
 title: 01_gerena_elem_school.jpg
 uid: 93fd1f7e-871d-787d-ecfb-a1e09027638b

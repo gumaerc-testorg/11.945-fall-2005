@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cb3c6821-9417-2cdd-eddb-63ae5064bc5f
 resourcetype: Document
 title: criticalmoments.pdf
 uid: 4bcf2a41-9a59-676f-158e-80d0c40c1ee9

@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 02_main_st_fruit_stand.jpg
 uid: d02407db-a8d6-a396-7e8b-f6f2c50f0d73

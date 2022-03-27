@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aa84dd92-2948-d7dc-ba6b-3c7f163efba9
 resourcetype: Document
 title: final_reflections_assn.pdf
 uid: f1eddd04-58e0-ff5f-6fb6-aaba7d7422bb

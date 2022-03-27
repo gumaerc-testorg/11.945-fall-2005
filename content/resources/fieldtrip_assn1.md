@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aa84dd92-2948-d7dc-ba6b-3c7f163efba9
 resourcetype: Document
 title: fieldtrip_assn1.pdf
 uid: 89815557-9917-27f2-7ee0-c4513ece38e0

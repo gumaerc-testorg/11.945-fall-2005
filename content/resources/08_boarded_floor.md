@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 resourcetype: Image
 title: 08_boarded_floor.jpg
 uid: c5ce7430-ff7c-5022-5613-a8fffc927232

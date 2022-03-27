@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Transportation
 parent_type: CourseSection
+parent_uid: 5b7c687c-83b7-b970-33eb-e49e1648067c
 resourcetype: Image
 title: 01_highway.jpg
 uid: 46ff714b-fe70-80f7-cde2-88e5639cf3b1

@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 21_hidden_business.jpg
 uid: 925425a6-5e4c-de88-c4fb-b8a040be0408

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 05_main_st_gifts.jpg
 uid: 7fa72f7a-bb4a-3a5f-a196-a52b388d511c

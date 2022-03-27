@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 12_main_st_fashions.jpg
 uid: 9886b25b-1d69-adeb-8d4e-f7ec4301454c

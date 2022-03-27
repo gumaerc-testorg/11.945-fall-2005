@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 14_main_st_games.jpg
 uid: 2bc8af8f-800e-8ec0-9eb7-4ac7cb23ed4e

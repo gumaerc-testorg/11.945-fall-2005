@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aa84dd92-2948-d7dc-ba6b-3c7f163efba9
 resourcetype: Document
 title: informalbus_notes.pdf
 uid: 22a8d7c0-e0f4-875e-5703-21e0379faf45

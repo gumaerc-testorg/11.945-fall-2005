@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Schools
 parent_type: CourseSection
+parent_uid: f430bf9b-6f62-31a0-88fc-c2a1a517d776
 resourcetype: Image
 title: 02_lincoln_magnet_far.jpg
 uid: 3cc5919a-f655-d789-e939-91efe7f5c600

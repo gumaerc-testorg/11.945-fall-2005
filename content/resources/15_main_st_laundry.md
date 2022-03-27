@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 15_main_st_laundry.jpg
 uid: 0345d43e-38d6-6044-7fcf-faf3c4f77714

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
+parent_uid: ad634494-9626-ff27-5475-fa31623d8255
 resourcetype: Image
 title: 07_main_st_jewelry.jpg
 uid: d21e37dc-6748-7d3a-96f2-5385a00527c5
