@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section contains information about readings for further
+  references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -79,7 +81,7 @@ Novak. "Neighborhood Initiative and the Regional Economy." In _Approaches to Eco
 Review/Discussion of North End Field Trip Project Resources and Work Plan
 {{< tdclose >}}
 {{< tdopen >}}
-Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/resources/criticalmoments))
+Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ({{% resource_link 4bcf2a41-9a59-676f-158e-80d0c40c1ee9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ _Regional Labor Market Profile, Hampden County, Summer 2004_. ([PDF](http://lmi2
   
 Porter, Michael E. _Regional Competitiveness in the Pioneer Valley_. Cambridge, MA: Harvard Business School Institute for Strategy and Competitiveness, 2003. ([PDF](http://www.hbs.edu/faculty/Publication%20Files/MA_RCC_PioneerValley_eed60f82-6b7d-418f-98a1-32a10981cc7b.pdf))  
   
-_Pioneer Valley Plan for Progress: Economic Strategies for the Region_. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF - 3.4 MB](http://www.pvpc.org/sites/default/files/06_pfp_bk.pdf))
+_Pioneer Valley Plan for Progress: Economic Strategies for the Region_. ([PDF - 3.4 MB](http://www.pvpc.org/sites/default/files/06_pfp_bk.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -387,7 +389,7 @@ Trial Run of Plan Presentation
 Course Conclusion and Reflections
 {{< tdclose >}}
 {{< tdopen >}}
-Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/resources/criticalmoments))
+Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ({{% resource_link 4bcf2a41-9a59-676f-158e-80d0c40c1ee9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
