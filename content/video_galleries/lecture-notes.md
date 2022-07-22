@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: The lecture notes section contains 6 lecture files and 4 video files
+  for the course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8a0dfd24-cafe-b85c-1793-7a737cde3145
 videos:
@@ -32,7 +37,7 @@ LECTURE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Economic Development Theories: Neighborhoods as Economic Units Slides ([PDF]({{< baseurl >}}/resources/lect3_slides)); Notes ([PDF]({{< baseurl >}}/resources/lect3))
+Economic Development Theories: Neighborhoods as Economic Units Slides ({{% resource_link df452abf-3785-c26c-e741-1ca31397a4a4 "PDF" %}}); Notes ({{% resource_link aa6f74e0-2be8-1087-f593-3e58090ad02c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +55,7 @@ Review/Discussion of North End Field Trip Project Resources and Work Plan
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Developing an Economic Development Plan ([PDF]({{< baseurl >}}/resources/lect5))
+Developing an Economic Development Plan ({{% resource_link 793de0a7-552c-faec-5264-f250beef85bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +64,7 @@ Developing an Economic Development Plan ([PDF]({{< baseurl >}}/resources/lect5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Reading Review / Work Session: Springfield Political Context ([PDF]({{< baseurl >}}/resources/lect6))
+Reading Review / Work Session: Springfield Political Context ({{% resource_link ae2f2a82-5c82-2f77-698d-94be37d0bae5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +73,7 @@ Reading Review / Work Session: Springfield Political Context ([PDF]({{< baseurl 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Local Economic Analysis Tools ([PDF]({{< baseurl >}}/resources/lect8_pres))
+Local Economic Analysis Tools ({{% resource_link 6f79788a-c51c-b2ad-cf91-d191f4a0bcc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +91,7 @@ Client Meeting
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Structuring an Economic Development Strategy ([PDF]({{< baseurl >}}/resources/lect14)) District Revitalization Tools: Business Development and Marketing ([PDF]({{< baseurl >}}/resources/lect14_pres))
+Structuring an Economic Development Strategy ({{% resource_link 104c788f-fd14-6721-b688-f1f9a760e89c "PDF" %}}) District Revitalization Tools: Business Development and Marketing ({{% resource_link 38f14cd4-a113-b088-b708-c71199e3dd4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

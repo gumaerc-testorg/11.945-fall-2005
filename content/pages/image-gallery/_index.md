@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'The image gallery section contains images for the following topics:
+  housing, businesses, schools, and transportation.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 ---
@@ -8,7 +12,7 @@ All images courtesy of Bill Massaquoi and used with permission.
 
 Housing
 -------
-{{< image-gallery id="7ca0dc4e-6917-0e69-3598-6cb1abe84ae1_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-fall-2005/" >}}
+{{< image-gallery id="7ca0dc4e-6917-0e69-3598-6cb1abe84ae1_nanogallery2" baseUrl="/courses/11-945-springfield-studio-fall-2005/" >}}
 {{< image-gallery-item href="d9de41e2ac6ea5c0f4050a6b41cf0934_01_apt_bldg.jpg" data-ngdesc="Apartment buildings are common near Main Street. Image Courtesy of Bill Massaquoi." text="Apartment buildings are common near Main Street." >}}
 {{< image-gallery-item href="3abef865f6ee1a2dab1aff0f67ba915b_02_single_family_home.jpg" data-ngdesc="This housing typology is more common in the Brightwood neighborhood. Image Courtesy of Bill Massaquoi." text="This housing typology is more common in the Brightwood neighborhood." >}}
 {{< image-gallery-item href="ff1e09fdab329e8ae8856740429637c0_03_north_end_home.jpg" data-ngdesc="Another housing typology, also common in Brightwood. Image Courtesy of Bill Massaquoi." text="Another housing typology, also common in Brightwood." >}}

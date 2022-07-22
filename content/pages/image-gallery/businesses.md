@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 7ca0dc4e-6917-0e69-3598-6cb1abe84ae1
 title: Businesses
 uid: ad634494-9626-ff27-5475-fa31623d8255
@@ -8,7 +12,7 @@ uid: ad634494-9626-ff27-5475-fa31623d8255
 
 Businesses
 ----------
-{{< image-gallery id="ad634494-9626-ff27-5475-fa31623d8255_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-fall-2005/" >}}
+{{< image-gallery id="ad634494-9626-ff27-5475-fa31623d8255_nanogallery2" baseUrl="/courses/11-945-springfield-studio-fall-2005/" >}}
 {{< image-gallery-item href="478ca6f980cf053688e92b73612d702b_01_baystate_hospital.jpg" data-ngdesc="The Baystate Hospital is the largest employer in the North End. Image Courtesy of Bill Massaquoi." text="The Baystate Hospital is the largest employer in the North End." >}}
 {{< image-gallery-item href="d02407dba8d6a3967e8bf6f2c50f0d73_02_main_st_fruit_stand.jpg" data-ngdesc="Main Street is the commercial hub and home to numerous small businesses in the North End. Image Courtesy of Bill Massaquoi." text="Main Street is the commercial hub and home to numerous small businesses in the North End." >}}
 {{< image-gallery-item href="8c8be254442b35ed021abf120e4ce4f5_03_main_st_auto.jpg" data-ngdesc="An autobody shop on Main Street. Image Courtesy of Bill Massaquoi." text="An autobody shop on Main Street." >}}

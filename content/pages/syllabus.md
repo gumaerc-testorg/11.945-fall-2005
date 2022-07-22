@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section contains the information about course description
+  and objectives, overview of the client and project focus, project process, class
+  requirements, and evaluation for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 59f69199-51bb-be32-5f5e-2f755f52f0a4
 ---
