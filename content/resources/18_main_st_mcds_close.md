@@ -9,6 +9,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: McDonald's.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 18_main_st_mcds_close.jpg
 uid: 58f7a62f-9782-3d98-a714-f41670fe999e
 ---
 A McDonald's sits immediately adjacent to the strip mall. Image Courtesy of Bill Massaquoi.
-

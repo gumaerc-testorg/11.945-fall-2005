@@ -9,6 +9,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: House.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 03_north_end_home.jpg
 uid: ff1e09fd-ab32-9e8a-e885-6740429637c0
 ---
 Another housing typology, also common in Brightwood. Image Courtesy of Bill Massaquoi.
-

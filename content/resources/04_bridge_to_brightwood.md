@@ -10,6 +10,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Overpass.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Transportation
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 04_bridge_to_brightwood.jpg
 uid: 60c83078-9c3b-cdd4-83ec-f94545d7157a
 ---
 The overpass is one of the few routes between Memorial Square and Brightwood, but it is also the site of highway entrances and exits. Image Courtesy of Bill Massaquoi.
-

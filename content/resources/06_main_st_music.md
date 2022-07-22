@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Music.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 06_main_st_music.jpg
 uid: 88915bb8-4e9b-868d-185f-0c0fa3b87374
 ---
 A small music store on Main Street. Image Courtesy of Bill Massaquoi.
-

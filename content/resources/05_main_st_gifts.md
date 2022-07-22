@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Gifts.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 05_main_st_gifts.jpg
 uid: 7fa72f7a-bb4a-3a5f-a196-a52b388d511c
 ---
 A gift store on Main Street. Image Courtesy of Bill Massaquoi.
-

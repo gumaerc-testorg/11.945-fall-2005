@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Restaurant.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 10_main_st_seafood.jpg
 uid: 62b37446-9f17-d0fb-f9b8-7937fcd465f0
 ---
 A seafood restaurant on Main Street. Image Courtesy of Bill Massaquoi.
-

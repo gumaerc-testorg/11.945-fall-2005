@@ -10,6 +10,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Fruit stand.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 02_main_st_fruit_stand.jpg
 uid: d02407db-a8d6-a396-7e8b-f6f2c50f0d73
 ---
 Main Street is the commercial hub and home to numerous small businesses in the North End. Image Courtesy of Bill Massaquoi.
-

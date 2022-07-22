@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Auto body.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 03_main_st_auto.jpg
 uid: 8c8be254-442b-35ed-021a-bf120e4ce4f5
 ---
 An autobody shop on Main Street. Image Courtesy of Bill Massaquoi.
-

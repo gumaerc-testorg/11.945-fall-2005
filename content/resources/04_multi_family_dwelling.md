@@ -9,6 +9,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Multi-family.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 04_multi_family_dwelling.jpg
 uid: e8aa1199-7644-a8ad-6382-727139cf68bb
 ---
 Multi-family houses are more common in the Memorial Square neighborhood. Image Courtesy of Bill Massaquoi.
-

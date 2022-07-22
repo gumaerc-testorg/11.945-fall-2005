@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Lincoln Magnet.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Schools
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 02_lincoln_magnet_far.jpg
 uid: 3cc5919a-f655-d789-e939-91efe7f5c600
 ---
 The Lincoln Magnet School. Image Courtesy of Bill Massaquoi.
-

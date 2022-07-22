@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Highway entrance.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Transportation
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 02_hwy_entrance.jpg
 uid: a4bacd73-8fd8-a4d6-0b3e-dbee843fad01
 ---
 The entrance to I-91. Image Courtesy of Bill Massaquoi.
-

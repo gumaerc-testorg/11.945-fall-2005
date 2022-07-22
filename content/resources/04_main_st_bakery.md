@@ -8,6 +8,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Bakery.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 04_main_st_bakery.jpg
 uid: 0df9607f-5354-d9cb-e198-1c123c022744
 ---
 A bakery on Main Street. Image Courtesy of Bill Massaquoi.
-

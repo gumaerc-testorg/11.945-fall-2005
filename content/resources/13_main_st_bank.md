@@ -9,6 +9,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Bank.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 13_main_st_bank.jpg
 uid: fcef2534-a7a8-00c6-61b6-dfce4d09ab2b
 ---
 Bank of America in the strip mall on Main Street. Image Courtesy of Bill Massaquoi.
-

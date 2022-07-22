@@ -10,6 +10,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Boarded windows.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 06_boarded_windows.jpg
 uid: a2be4713-340e-dcdd-29d6-e2afbc57f481
 ---
 A number of buildings in the North End have boarded windows from fire or abandonment. Image Courtesy of Bill Massaquoi.
-

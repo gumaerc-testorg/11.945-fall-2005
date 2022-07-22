@@ -10,6 +10,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 20_billboards.jpg
 uid: b1d02740-008b-d56b-7027-be35e2954169
 ---
 Billboards and graffiti also populate the walls of buildings along Main Street in the North End. Image Courtesy of Bill Massaquoi.
-

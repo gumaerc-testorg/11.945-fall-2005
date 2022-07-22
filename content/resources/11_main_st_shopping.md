@@ -9,6 +9,7 @@ image_metadata:
   credit: Image Courtesy of Bill Massaquoi.
   image-alt: Strip mall.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Businesses
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 11_main_st_shopping.jpg
 uid: 4de768b2-8236-1bbd-2565-58ea43a9030d
 ---
 A small strip mall on Main Street near the highway entrance. Image Courtesy of Bill Massaquoi.
-
