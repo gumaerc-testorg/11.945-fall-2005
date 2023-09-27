@@ -57,8 +57,11 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Image Gallery",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Projects with Examples"
   ],
-  "site_uid": "24a7dc07-e22e-469d-b436-f6d50ef9559a",
+  "site_uid": "60e69feb-78cc-46e8-b6fe-b84d730e5450",
+  "site_short_id": "11.945-fall-2005",
   "title": "Course Metadata"
 }
