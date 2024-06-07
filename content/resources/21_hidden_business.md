@@ -4,6 +4,7 @@ description: Some businesses are run out of buildings in the neighborhood that b
   in with the houses, and some are actually run out of residents' homes. Image Courtesy
   of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/925425a65e4cde88c4fbb8a040be0408_21_hidden_business.jpg
+file_size: 72140
 file_type: image/jpeg
 image_metadata:
   caption: Some businesses are run out of buildings in the neighborhood that blend

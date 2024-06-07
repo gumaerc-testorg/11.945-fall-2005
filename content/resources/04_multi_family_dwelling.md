@@ -3,6 +3,7 @@ content_type: resource
 description: Multi-family houses are more common in the Memorial Square neighborhood.
   Image Courtesy of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/e8aa11997644a8ad6382727139cf68bb_04_multi_family_dwelling.jpg
+file_size: 58458
 file_type: image/jpeg
 image_metadata:
   caption: Multi-family houses are more common in the Memorial Square neighborhood.

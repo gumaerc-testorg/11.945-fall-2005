@@ -2,6 +2,7 @@
 content_type: resource
 description: An autobody shop on Main Street. Image Courtesy of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/8c8be254442b35ed021abf120e4ce4f5_03_main_st_auto.jpg
+file_size: 64287
 file_type: image/jpeg
 image_metadata:
   caption: An autobody shop on Main Street.
