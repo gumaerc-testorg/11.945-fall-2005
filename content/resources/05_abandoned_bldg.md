@@ -2,6 +2,7 @@
 content_type: resource
 description: An abandoned building in the North End. Image Courtesy of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/181cf5229a9aa17ceb288c69780ddc5a_05_abandoned_bldg.jpg
+file_size: 86839
 file_type: image/jpeg
 image_metadata:
   caption: An abandoned building in the North End.

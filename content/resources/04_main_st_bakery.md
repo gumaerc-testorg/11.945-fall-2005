@@ -2,6 +2,7 @@
 content_type: resource
 description: A bakery on Main Street. Image Courtesy of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/0df9607f5354d9cbe1981c123c022744_04_main_st_bakery.jpg
+file_size: 69033
 file_type: image/jpeg
 image_metadata:
   caption: A bakery on Main Street.

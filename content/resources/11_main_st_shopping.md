@@ -3,6 +3,7 @@ content_type: resource
 description: A small strip mall on Main Street near the highway entrance. Image Courtesy
   of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/4de768b282361bbd256558ea43a9030d_11_main_st_shopping.jpg
+file_size: 64582
 file_type: image/jpeg
 image_metadata:
   caption: A small strip mall on Main Street near the highway entrance.
