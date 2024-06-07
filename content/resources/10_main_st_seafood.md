@@ -2,6 +2,7 @@
 content_type: resource
 description: A seafood restaurant on Main Street. Image Courtesy of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/62b374469f17d0fbf9b87937fcd465f0_10_main_st_seafood.jpg
+file_size: 65566
 file_type: image/jpeg
 image_metadata:
   caption: A seafood restaurant on Main Street.

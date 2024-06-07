@@ -3,6 +3,7 @@ content_type: resource
 description: Billboards and graffiti also populate the walls of buildings along Main
   Street in the North End. Image Courtesy of Bill Massaquoi.
 file: /courses/11-945-springfield-studio-fall-2005/b1d02740008bd56b7027be35e2954169_20_billboards.jpg
+file_size: 69428
 file_type: image/jpeg
 image_metadata:
   caption: Billboards and graffiti also populate the walls of buildings along Main

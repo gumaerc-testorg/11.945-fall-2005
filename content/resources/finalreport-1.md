@@ -4,6 +4,7 @@ description: 'This resource contains information on building in the present, gro
   towards the future: a plan for economic development in the North End as the final
   report for the projects.'
 file: /courses/11-945-springfield-studio-fall-2005/c82203acc3217a313472191ba664d770_finalreport.pdf
+file_size: 7350048
 file_type: application/pdf
 learning_resource_types:
 - Projects
