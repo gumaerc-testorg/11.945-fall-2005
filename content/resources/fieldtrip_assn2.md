@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains assignment for team 1: economic activity, team
   2: environment conditions, and team 3: land use and transportation conditions.'
-file: /courses/11-945-springfield-studio-fall-2005/532030e62aaad0c7c9d705c7090a0eb6_fieldtrip_assn2.pdf
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/532030e62aaad0c7c9d705c7090a0eb6_fieldtrip_assn2.pdf
 file_size: 26294
 file_type: application/pdf
 learning_resource_types:

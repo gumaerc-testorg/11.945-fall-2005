@@ -5,7 +5,7 @@ description: During the semester, students determined that they needed to conduc
   of business owners and learn more about the formal and informal economies of the
   neighborhood. Their interview findings are included in this document. All work is
   courtesy of the class and used with permission.
-file: /courses/11-945-springfield-studio-fall-2005/22a8d7c0e0f4875e570321e0379faf45_informalbus_notes.pdf
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/22a8d7c0e0f4875e570321e0379faf45_informalbus_notes.pdf
 file_size: 91469
 file_type: application/pdf
 learning_resource_types:
