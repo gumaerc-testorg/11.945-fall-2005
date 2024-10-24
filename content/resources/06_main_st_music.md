@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A small music store on Main Street. Image Courtesy of Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/88915bb84e9b868d185f0c0fa3b87374_06_main_st_music.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/88915bb84e9b868d185f0c0fa3b87374_06_main_st_music.jpg
 file_size: 60480
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Main Street is the commercial hub and home to numerous small businesses
   in the North End. Image Courtesy of Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/d02407dba8d6a3967e8bf6f2c50f0d73_02_main_st_fruit_stand.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/d02407dba8d6a3967e8bf6f2c50f0d73_02_main_st_fruit_stand.jpg
 file_size: 83274
 file_type: image/jpeg
 image_metadata:

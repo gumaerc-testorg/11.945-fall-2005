@@ -2,7 +2,7 @@
 content_type: resource
 description: Some of the housing suffers from poor maintenance. Image Courtesy of
   Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/a6dc84c7656c0bac369419f1060b73cb_07_broken_window.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/a6dc84c7656c0bac369419f1060b73cb_07_broken_window.jpg
 file_size: 76966
 file_type: image/jpeg
 image_metadata:

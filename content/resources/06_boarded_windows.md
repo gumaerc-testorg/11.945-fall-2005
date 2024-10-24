@@ -2,7 +2,7 @@
 content_type: resource
 description: A number of buildings in the North End have boarded windows from fire
   or abandonment. Image Courtesy of Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/a2be4713340edcdd29d6e2afbc57f481_06_boarded_windows.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/a2be4713340edcdd29d6e2afbc57f481_06_boarded_windows.jpg
 file_size: 78503
 file_type: image/jpeg
 image_metadata:
