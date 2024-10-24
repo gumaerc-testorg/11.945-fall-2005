@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses an agenda for the economic development plan and
   three steps to go through in dealing with this.
-file: /courses/11-945-springfield-studio-fall-2005/793de0a7552cfaec5264f250beef85bf_lect5.pdf
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/793de0a7552cfaec5264f250beef85bf_lect5.pdf
 file_size: 39373
 file_type: application/pdf
 learning_resource_types:
