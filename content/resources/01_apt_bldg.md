@@ -2,7 +2,7 @@
 content_type: resource
 description: Apartment buildings are common near Main Street. Image Courtesy of Bill
   Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/d9de41e2ac6ea5c0f4050a6b41cf0934_01_apt_bldg.jpg
+file: /courses/11-945-springfield-studio-fall-2005/d9de41e2ac6ea5c0f4050a6b41cf0934_01_apt_bldg.jpg
 file_size: 65274
 file_type: image/jpeg
 image_metadata:

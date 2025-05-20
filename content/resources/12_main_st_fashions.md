@@ -2,7 +2,7 @@
 content_type: resource
 description: A small clothing store in the strip mall on Main Street. Image Courtesy
   of Bill Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/9886b25b1d69adeb8d4ef7ec4301454c_12_main_st_fashions.jpg
+file: /courses/11-945-springfield-studio-fall-2005/9886b25b1d69adeb8d4ef7ec4301454c_12_main_st_fashions.jpg
 file_size: 73545
 file_type: image/jpeg
 image_metadata:
