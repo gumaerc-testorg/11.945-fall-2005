@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A small jewelry store on Main Street. Image Courtesy of Bill Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/d21e37dc67487d3a96f25385a00527c5_07_main_st_jewelry.jpg
+file: /courses/11-945-springfield-studio-fall-2005/d21e37dc67487d3a96f25385a00527c5_07_main_st_jewelry.jpg
 file_size: 68990
 file_type: image/jpeg
 image_metadata:

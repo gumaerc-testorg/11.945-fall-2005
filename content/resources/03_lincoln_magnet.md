@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Lincoln Magnet School close up. Image Courtesy of Bill Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/8511ab68bb93b780886dee859008f51b_03_lincoln_magnet.jpg
+file: /courses/11-945-springfield-studio-fall-2005/8511ab68bb93b780886dee859008f51b_03_lincoln_magnet.jpg
 file_size: 71360
 file_type: image/jpeg
 image_metadata:

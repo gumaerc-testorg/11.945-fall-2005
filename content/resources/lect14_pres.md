@@ -7,7 +7,7 @@ description: This resource discusses the Why business development and retention?
   and displacement, marketing supports several goals, image building, marketing for
   customer attraction, marketing for business recruitment, use formal and informal
   recruitment methods, and evaluate marketing results to assess effectiveness.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/38f14cd4a113b088b708c71199e3dd4a_lect14_pres.pdf
+file: /courses/11-945-springfield-studio-fall-2005/38f14cd4a113b088b708c71199e3dd4a_lect14_pres.pdf
 file_size: 246727
 file_type: application/pdf
 learning_resource_types:

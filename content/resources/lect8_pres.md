@@ -16,7 +16,7 @@ description: 'This resource dicusses economic data, demographic analysis, econom
   the education and training system, information sources, and findings from Hyams
 
   foundation study.'
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/6f79788ac51cb2adcf91d191f4a0bcc3_lect8_pres.pdf
+file: /courses/11-945-springfield-studio-fall-2005/6f79788ac51cb2adcf91d191f4a0bcc3_lect8_pres.pdf
 file_size: 103466
 file_type: application/pdf
 learning_resource_types:
