@@ -2,7 +2,7 @@
 content_type: resource
 description: The Gerena Elementary School, which houses the NEON headquarters. Image
   Courtesy of Bill Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/93fd1f7e871d787decfba1e09027638b_01_gerena_elem_school.jpg
+file: /courses/11-945-springfield-studio-fall-2005/93fd1f7e871d787decfba1e09027638b_01_gerena_elem_school.jpg
 file_size: 48498
 file_type: image/jpeg
 image_metadata:

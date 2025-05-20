@@ -2,7 +2,7 @@
 content_type: resource
 description: Only a part of this multi-family unit has been abandoned. Image Courtesy
   of Bill Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/c5ce7430ff7c50225613a8fffc927232_08_boarded_floor.jpg
+file: /courses/11-945-springfield-studio-fall-2005/c5ce7430ff7c50225613a8fffc927232_08_boarded_floor.jpg
 file_size: 77822
 file_type: image/jpeg
 image_metadata:

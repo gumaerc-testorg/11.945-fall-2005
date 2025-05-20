@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Lincoln Magnet School. Image Courtesy of Bill Massaquoi.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/3cc5919af655d789e93991efe7f5c600_02_lincoln_magnet_far.jpg
+file: /courses/11-945-springfield-studio-fall-2005/3cc5919af655d789e93991efe7f5c600_02_lincoln_magnet_far.jpg
 file_size: 73311
 file_type: image/jpeg
 image_metadata:

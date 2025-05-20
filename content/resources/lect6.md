@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses reading review and work session for Springfield
   political context.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/ae2f2a825c822f77698d94be37d0bae5_lect6.pdf
+file: /courses/11-945-springfield-studio-fall-2005/ae2f2a825c822f77698d94be37d0bae5_lect6.pdf
 file_size: 24200
 file_type: application/pdf
 learning_resource_types:
