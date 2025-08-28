@@ -2,7 +2,7 @@
 content_type: resource
 description: Another housing typology, also common in Brightwood. Image Courtesy of
   Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/ff1e09fdab329e8ae8856740429637c0_03_north_end_home.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/ff1e09fdab329e8ae8856740429637c0_03_north_end_home.jpg
 file_size: 85499
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource discusses overview, introduction, slides, and discussion
   for economic development theories: neighborhoods as economic units.'
-file: /courses/11-945-springfield-studio-fall-2005/aa6f74e02be81087f5933e58090ad02c_lect3.pdf
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/aa6f74e02be81087f5933e58090ad02c_lect3.pdf
 file_size: 47500
 file_type: application/pdf
 learning_resource_types:
