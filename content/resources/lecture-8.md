@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 546274563
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: 'Lecture 8: Local Economic Analysis Tools'
 uid: 3cb92e61-3b41-6726-6baa-8c486a63b23f
 video_files:
-  archive_url: http://www.archive.org/download/MIT11.945F05/ocw-11.945-04oct2005-220k.mp4
+  archive_url: https://ia801301.us.archive.org/3/items/MIT11.945F05/ocw-11.945-04oct2005-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/muvnmdiAJbM/default.jpg
   video_transcript_file: null

@@ -2,7 +2,7 @@
 content_type: resource
 description: Students are asked to engage in a final critical moments reflection session
   during the final class session.
-file: /courses/11-945-springfield-studio-fall-2005/f1eddd0458e0ff5f6fb6aaba7d7422bb_final_reflections_assn.pdf
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/f1eddd0458e0ff5f6fb6aaba7d7422bb_final_reflections_assn.pdf
 file_size: 7525
 file_type: application/pdf
 learning_resource_types:
