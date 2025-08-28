@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The entrance to I-91. Image Courtesy of Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/a4bacd738fd8a4d60b3edbee843fad01_02_hwy_entrance.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/a4bacd738fd8a4d60b3edbee843fad01_02_hwy_entrance.jpg
 file_size: 53085
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A game store in the strip mall on Main Street. Image Courtesy of Bill
   Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/2bc8af8f800e8ec09eb74ac7cb23ed4e_14_main_st_games.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/2bc8af8f800e8ec09eb74ac7cb23ed4e_14_main_st_games.jpg
 file_size: 68749
 file_type: image/jpeg
 image_metadata:

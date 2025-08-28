@@ -2,7 +2,7 @@
 content_type: resource
 description: A mixed use building on Main Street with a number of small businesses.
   Image Courtesy of Bill Massaquoi.
-file: /courses/11-945-springfield-studio-fall-2005/172ab6ec9a43d6c13f4f5e4f8a21052c_08_main_st_mixed.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-fall-2005/172ab6ec9a43d6c13f4f5e4f8a21052c_08_main_st_mixed.jpg
 file_size: 70757
 file_type: image/jpeg
 image_metadata:
